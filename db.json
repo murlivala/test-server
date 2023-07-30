@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "David",
+      "age": 30
+    },
+    {
+      "name": "John",
+      "id": 2,
+      "age": 40
+    },
+    {
+      "name": "Sean",
+      "id": 3,
+      "age": 35
+    }
+  ],
+  "tasks": [],
+  "home": ["<html>Hello</html>"]
+}
