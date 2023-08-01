@@ -1,4 +1,5 @@
 {
+  "name":["test-server v0.1"],
   "users": [
     {
       "id": 1,
@@ -16,6 +17,5 @@
       "age": 35
     }
   ],
-  "tasks": [],
-  "home": ["<html>Hello</html>"]
+  "tasks": []
 }
