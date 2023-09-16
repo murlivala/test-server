@@ -17,5 +17,43 @@
       "age": 35
     }
   ],
-  "tasks": []
+  "tasks": [],
+  "batches":[
+    {
+      "id":1,
+      "batchid":"ASDX11253",
+      "record": [
+        {
+          "name": "David",
+          "age": 30
+        },
+        {
+          "name": "John",
+          "age": 40
+        },
+        {
+          "name": "Sean",
+          "age": 35
+        }
+      ]
+    },
+    {
+      "id":2,
+      "batchid":"ASDX11254",
+      "record": [
+        {
+          "name": "Raman",
+          "age": 39
+        },
+        {
+          "name": "Trilok",
+          "age": 45
+        },
+        {
+          "name": "Shankar",
+          "age": 65
+        }
+      ]
+    }
+  ]
 }
